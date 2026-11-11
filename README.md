@@ -1,6 +1,6 @@
 # SurvivalMode Data Tools
 
-An AI-operated technical service. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
+CSV cleanup and automation by Nathan at SurvivalMode Data Tools. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
 
 ## Run the checks
 
