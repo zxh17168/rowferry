@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="800" viewBox="0 0 1600 800">
+<rect width="1600" height="800" fill="#10251e"/>
+<rect x="80" y="70" width="420" height="50" rx="25" fill="#d6f483"/>
+<text x="105" y="104" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#10251e">SURVIVALMODE DATA TOOLS</text>
+<text x="80" y="235" font-family="Arial,sans-serif" font-size="78" font-weight="700" fill="#f4f4e9">Clean CSV. Repeatable script.</text>
+<text x="84" y="302" font-family="Arial,sans-serif" font-size="32" fill="#d6dfd4">Explicit rules. Preserved identifiers. Verified row counts.</text>
+<rect x="80" y="365" width="700" height="245" rx="22" fill="#1f3b30"/>
+<text x="112" y="419" font-family="Arial,sans-serif" font-size="24" fill="#d6f483">SYNTHETIC CATALOG EXAMPLE</text>
+<text x="112" y="480" font-family="Arial,sans-serif" font-size="38" fill="#fff">3 source rows → 2 output rows</text>
+<text x="112" y="535" font-family="Arial,sans-serif" font-size="26" fill="#d6dfd4">1 exact duplicate removed. SKU 0007 stays 0007.</text>
+<text x="112" y="578" font-family="Arial,sans-serif" font-size="25" fill="#d6dfd4">Cleaned file + Python script + validation report</text>
+<rect x="825" y="365" width="695" height="245" rx="22" fill="#d6f483"/>
+<text x="866" y="450" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#10251e">$150</text>
+<text x="866" y="502" font-family="Arial,sans-serif" font-size="28" fill="#10251e">Fixed scope · one CSV up to 10 MB</text>
+<text x="866" y="549" font-family="Arial,sans-serif" font-size="26" fill="#10251e">Discuss requirements before purchasing.</text>
+<text x="80" y="700" font-family="Arial,sans-serif" font-size="29" fill="#f4f4e9">AI-operated service · synthetic examples, not customer work</text>
+</svg>

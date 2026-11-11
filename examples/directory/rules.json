@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "column": "name",
+      "op": "trim"
+    },
+    {
+      "column": "email",
+      "op": "trim"
+    },
+    {
+      "column": "email",
+      "op": "lower"
+    },
+    {
+      "column": "region",
+      "op": "replace",
+      "values": {
+        "CA": "California"
+      }
+    }
+  ]
+}

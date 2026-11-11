@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "column": "name",
+      "op": "trim"
+    },
+    {
+      "column": "category",
+      "op": "replace",
+      "values": {
+        "cups": "Drinkware",
+        "mugs": "Drinkware"
+      }
+    }
+  ],
+  "deduplicate_exact": true
+}

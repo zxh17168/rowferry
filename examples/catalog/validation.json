@@ -1,0 +1,32 @@
+{
+  "source_sha256": "ab293b5a0012b74a504edc2ac464cc368d46e96aa79a15d7236533f23acb9c85",
+  "output_sha256": "eae08f46b811fdf5edb0284bb2c86cc69cd0180ffebe3f01753112371c208d7d",
+  "input_rows": 3,
+  "output_rows": 2,
+  "duplicate_rows_removed": 1,
+  "changed_cells": 4,
+  "row_reconciliation_passed": true,
+  "config": {
+    "rules": [
+      {
+        "column": "name",
+        "op": "trim"
+      },
+      {
+        "column": "category",
+        "op": "replace",
+        "values": {
+          "cups": "Drinkware",
+          "mugs": "Drinkware"
+        }
+      }
+    ],
+    "deduplicate_exact": true
+  },
+  "potential_spreadsheet_formula_cells": [],
+  "notes": [
+    "All values remain strings: no inferred dates, numbers, missing values, or guessed replacements.",
+    "Exact duplicate removal compares original full rows, before normalization.",
+    "Formula-like values are flagged, not modified. Review before opening in spreadsheet software."
+  ]
+}

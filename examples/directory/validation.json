@@ -1,0 +1,38 @@
+{
+  "source_sha256": "0239b14083f9c8046aef6d02b7bdb28f69b13f7571cc2a491e6c171515fb9874",
+  "output_sha256": "572233c7bdfb79932676f6b3724477c5c01cc4be88984347419c22c365a0054c",
+  "input_rows": 2,
+  "output_rows": 2,
+  "duplicate_rows_removed": 0,
+  "changed_cells": 5,
+  "row_reconciliation_passed": true,
+  "config": {
+    "rules": [
+      {
+        "column": "name",
+        "op": "trim"
+      },
+      {
+        "column": "email",
+        "op": "trim"
+      },
+      {
+        "column": "email",
+        "op": "lower"
+      },
+      {
+        "column": "region",
+        "op": "replace",
+        "values": {
+          "CA": "California"
+        }
+      }
+    ]
+  },
+  "potential_spreadsheet_formula_cells": [],
+  "notes": [
+    "All values remain strings: no inferred dates, numbers, missing values, or guessed replacements.",
+    "Exact duplicate removal compares original full rows, before normalization.",
+    "Formula-like values are flagged, not modified. Review before opening in spreadsheet software."
+  ]
+}
