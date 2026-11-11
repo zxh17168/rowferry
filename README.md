@@ -1,6 +1,6 @@
-# SurvivalMode Data Tools
+# RowFerry
 
-CSV cleanup and automation by Nathan at SurvivalMode Data Tools. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
+CSV cleanup and automation by Nathan at RowFerry. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
 
 ## Run the checks
 
@@ -29,6 +29,6 @@ Explicit operations: trim, lowercase, uppercase and exact value mapping; at most
 
 ## Service
 
-For configured cleanup and a verified handover, discuss a redacted sample and requirements first: [service details](https://ko-fi.com/c/9826f3697f), or survivalmode.datatools@gmail.com.
+For configured cleanup and a verified handover, discuss a redacted sample and requirements first: [service details](https://ko-fi.com/c/9826f3697f), or [message Nathan on Ko-fi](https://ko-fi.com/rowferry).
 
 The examples are fictional and are not customer work or testimonials. This code is supplied under the MIT license; inspect it before using it with your data.
