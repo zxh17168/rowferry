@@ -29,6 +29,8 @@ Explicit operations: trim, lowercase, uppercase and exact value mapping; at most
 
 ## Service
 
+Contact Nathan at [hello.fixstride@gmail.com](mailto:hello.fixstride@gmail.com) for a redacted sample review and a scoped quote.
+
 For configured cleanup and a verified handover, discuss a redacted sample and requirements first: [service details](https://ko-fi.com/c/9826f3697f), or [message Nathan on Ko-fi](https://ko-fi.com/rowferry).
 
 The examples are fictional and are not customer work or testimonials. This code is supplied under the MIT license; inspect it before using it with your data.
