@@ -1,6 +1,6 @@
-# RowFerry
+# Fixstride
 
-CSV cleanup and automation by Nathan at RowFerry. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
+CSV cleanup and automation by Nathan at Fixstride. This repository is a reproducible **synthetic demonstration**, with source, examples and automated checks.
 
 ## Run the checks
 
